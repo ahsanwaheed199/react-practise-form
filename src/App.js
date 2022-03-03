@@ -40,6 +40,21 @@ function App() {
             </div>
           </div>
         </div>
+        <div className="header1 container-div-main1">
+          <div className="para">
+            <p className="p-heading">Money earn</p>
+            <p className="p-content">$12,000</p>
+          </div>
+          <div className="avatar-position1">
+            <img src={avatar} alt="Avatar" className="avatar1 " />
+            <p className="p-content1">Viken</p>
+            <p className="p-heading1">1209</p>
+          </div>
+          <div className="para">
+            <p className="p-heading">Tournaments Played</p>
+            <p className="p-content">12</p>
+          </div>
+        </div>
         <div className="align-right">
           <p style={{ fontSize: "12px", margin: "3px", color: "#30285d" }}>
             Share profile
